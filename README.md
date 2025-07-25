@@ -15,7 +15,7 @@
 🧪 Research Intern at IEEE EMBS (Biomedical AI)  
 🌐 Intern at Huawei AI & Cloud, Samsung Innovation Campus, and DEPI ML  
 📍 Based in Mansoura, Egypt
-
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kirellos-youssef-samy-896b26232/)
 ---
 
 ### 🔧 Technical Skills
@@ -68,18 +68,12 @@
 - 📧 kirellosyoussef21@ieee.org
 - 📧 kokoyousefsamy@gmail.com
 - 🧑‍💻 [GitHub](https://github.com/KirellosY)  
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kirellos-youssef-samy-896b26232/)
-
-📬 **Let’s connect!**  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kirellos-youssef-samy-896b26232/) to collaborate on AI, research, or cool projects 🚀
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kirellos-youssef-samy-896b26232/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+    <img src="https://github.com/KirellosY/KirellosY/blob/main/assets/linkedin-banner.png" alt="Shoot me a message on LinkedIn!" width="500"/>
   </a>
 </p>
 
-<p align="center"><i>Let’s collaborate on AI, research, or internships!</i></p>
 
 ---
 

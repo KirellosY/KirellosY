@@ -10,11 +10,12 @@
 
 🎓 Senior AI Engineering undergraduate at Mansoura University (GPA: 3.94/4.0)  
 👨‍💻 Active member of IEEE Mansoura Student Branch, Mansoura Motorsport, and Mansoura Robotics Club  
-💡 Passionate about AI for mental health, autonomous systems, and real-world applications  
+💡 Passionate about AI for  autonomous systems,mental health, and real-world applications  
 🚗 Hands-on experience with F1TENTH, robotics, and automotive systems  
 🧪 Research Intern at IEEE EMBS (Biomedical AI)  
 🌐 Intern at Huawei AI & Cloud, Samsung Innovation Campus, and DEPI ML  
 📍 Based in Mansoura, Egypt
+
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kirellos-youssef-samy-896b26232/)
 ---
 
@@ -67,10 +68,12 @@
 
 - 📧 kirellosyoussef21@ieee.org
 - 📧 kokoyousefsamy@gmail.com
-- 🧑‍💻 [GitHub](https://github.com/KirellosY)  
+- 🧑‍💻 [GitHub](https://github.com/KirellosY)
+  
 <p align="center">
   <a href="https://www.linkedin.com/in/kirellos-youssef-samy-896b26232/" target="_blank">
-    <img src="https://github.com/KirellosY/KirellosY/blob/main/assets/linkedin-banner.png" alt="Shoot me a message on LinkedIn!" width="500"/>
+    <img src="https://github.com/KirellosY/KirellosY/blob/main/assets/linkedin-banner.gif" alt="Shoot me a message on LinkedIn!" width="500"/>
+    <p align="center"><i>Let’s connect and build something amazing together 🚀</i></p>
   </a>
 </p>
 

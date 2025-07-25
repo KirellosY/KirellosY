@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-🎓 AI Engineering undergraduate at Mansoura University  
+🎓 Senior AI Engineering undergraduate at Mansoura University (GPA: 3.94/4.0)  
 👨‍💻 Active member of IEEE Mansoura Student Branch, Mansoura Motorsport, and Mansoura Robotics Club  
 💡 Passionate about AI for mental health, autonomous systems, and real-world applications  
 🚗 Hands-on experience with F1TENTH, robotics, and automotive systems  
@@ -32,8 +32,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KirellosY&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KirellosY&theme=radical" alt="GitHub Streak" />
   <br />
   <img src="https://komarev.com/ghpvc/?username=KirellosY&color=blue" alt="Profile views" />
 </p>
@@ -67,10 +65,21 @@
 
 ### 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kirellos-youssef-samy-896b26232/)  
-- 📧 kokoyousefsamy@gmail.com  
+- 📧 kirellosyoussef21@ieee.org
+- 📧 kokoyousefsamy@gmail.com
 - 🧑‍💻 [GitHub](https://github.com/KirellosY)  
-- 📊 [DataCamp Portfolio](https://www.datacamp.com/portfolio/KirellosY)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kirellos-youssef-samy-896b26232/)
+
+📬 **Let’s connect!**  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kirellos-youssef-samy-896b26232/) to collaborate on AI, research, or cool projects 🚀
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kirellos-youssef-samy-896b26232/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+<p align="center"><i>Let’s collaborate on AI, research, or internships!</i></p>
 
 ---
 

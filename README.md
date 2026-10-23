@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kirellos Youssef</h1>
 
 <p align="center">
-  <i>Senior AI Engineering Student | IEEE EMBS Intern | F1TENTH Competitor | DEPI ML Trainee | ex-MCV Intern</i>
+  <i>MSc in CS @Polimi | IEEE EMBS Intern | F1TENTH Competitor | DEPI ML Trainee | ex-MCV Intern</i>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-🎓 Senior AI Engineering undergraduate at Mansoura University (GPA: 3.94/4.0)  
-👨‍💻 Active member of IEEE Mansoura Student Branch, Mansoura Motorsport, and Mansoura Robotics Club  
+🎓 BSc in AI Engineering - Mansoura University (GPA: 3.92/4.0)  
+👨‍💻 was a member of IEEE Mansoura Student Branch, Mansoura Motorsport, and Mansoura Robotics Club  
 💡 Passionate about AI for  autonomous systems,mental health, and real-world applications  
 🚗 Hands-on experience with F1TENTH, robotics, and automotive systems  
 🧪 Research Intern at IEEE EMBS (Biomedical AI)  
